@@ -1,0 +1,30 @@
+a {
+    margin-left: 10px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+a:hover {
+    border: 5px solid gold;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+body {
+    background-color: red;
+}
+
+div {
+    text-align: center;
+    margin: 15px;
+    border: 10px solid gold;
+}
+
+p {
+    margin: 15px;
+    border: 10px solid gold;
+}
+
+img {
+    max-height: 200px;
+}

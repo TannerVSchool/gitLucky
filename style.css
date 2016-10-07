@@ -1,0 +1,48 @@
+a {
+    margin-left: 10px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+a:hover {
+    border: 5px solid purple;
+    font-weight: bold;
+    text-decoration: underline;
+    color: red;
+}
+
+nav {
+    background-color: gold;
+    color: black;
+}
+
+.nav {
+    border-radius: 0px;
+}
+
+body {
+    background-color: red;
+    opacity: .7;
+}
+
+div {
+    text-align: center;
+    margin: 15px;
+}
+
+div:hover {
+    border: 10px solid gold;
+}
+
+p {
+    text-align: center;
+    margin: 15px;
+}
+
+p:hover {
+    border: 10px solid gold;
+}
+
+img {
+    max-height: 300px;
+}

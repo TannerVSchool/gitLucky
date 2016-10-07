@@ -16,6 +16,10 @@ nav {
     color: black;
 }
 
+.nav {
+    border-radius: 0px;
+}
+
 body {
     background-color: red;
     opacity: .7;

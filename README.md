@@ -2,7 +2,7 @@ Daft Punk Site
 
 App.js: Anthony
 config.js: Nate
-style.css
+style.css: Tanner
 Index.html: Shan
 About: Agustin
 Tour: Devin
